@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Jal Shakti Sahayak: AI Grievance Chatbot",
+  "description": "An AI-driven chatbot for the Ministry of Jal Shakti to intelligently receive, classify, track, and provide real-time feedback on public grievances related to India's water sector.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
